@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*.pcap
+*.pcapng
+.pytest_cache/
+anomaly_graph.png

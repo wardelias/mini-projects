@@ -1,0 +1,3 @@
+scapy>=2.5
+matplotlib>=3.7
+anthropic>=0.40
